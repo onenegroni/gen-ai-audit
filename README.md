@@ -1,7 +1,15 @@
 # gen-ai-audit
 
-- first gen ai project
+### project structure
 
-some stuff here
+Project built with node.js and create react app.
 
-more stuff here
+1. clone the repo
+2. npm install
+3. npm run start
+
+
+/src - project source
+/public - public html files
+/images - images
+
